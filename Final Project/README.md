@@ -102,10 +102,11 @@ These hyper parameters can be increased to attain much better performance leadin
 
 Epoch-wise PSNR in my code :
 
-|-----------|-------|-------|-----------------|
-| Eval. Mat | Scale | Epoch Number |
-| PSNR | 2 | 0| **36.89** |
-| PSNR | 2 | 1| **36.96** |
+
+|  Scale | Epoch Number | PSNR |
+|-----------|-------|-------|
+|  2 | 0| **36.89** |
+| 2 | 1| **36.96** |
 
 
 ## References
