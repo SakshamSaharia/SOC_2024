@@ -97,10 +97,16 @@ These hyper parameters can be increased to attain much better performance leadin
 | Eval. Mat | Scale | DRRN_B1U9 (Paper) | DRRN_B1U9 (Mine) |
 |-----------|-------|-------|-----------------|
 | PSNR | 2 | 37.66 | **36.96** |
-| Eval. Mat | Scale | Epoch Number |
 |-----------|-------|-------|-----------------|
+
+
+Epoch-wise PSNR in my code :
+
+|-----------|-------|-------|-----------------|
+| Eval. Mat | Scale | Epoch Number |
 | PSNR | 2 | 0| **36.89** |
 | PSNR | 2 | 1| **36.96** |
+|-----------|-------|-------|-----------------|
 
 
 ## References
